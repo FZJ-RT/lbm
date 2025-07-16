@@ -9,3 +9,6 @@ Collection of Fortran codes to perform Lattice-Boltzmann simulation on a given b
 5. Modify simulation parameters in the inputtest.h file
 6. In the same folder where you copy all the files, type "make" in your terminal
 7. In the same folder where you copy all the files, type "./PNP" in your terminal
+
+## Contact us
+For further questions or inquiries, please contact Ryan Santoso - r.santoso@fz-juelich.de
