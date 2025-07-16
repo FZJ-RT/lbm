@@ -1,7 +1,7 @@
 # lbm
 Collection of Fortran codes to perform Lattice-Boltzmann simulation on a given binary-formatted structure for capturing diffusion process
 
-##How to use
+## How to use
 1. Install [cac](https://github.com/FZJ-RT/cac.git) library
 2. Activate cac conda environment
 3. Download all files in theis repository
